@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations><key name="//CompilationUnit[org.argouml.kernel.MemberList]:imports/ImportDeclaration:org.argouml.uml.cognitive.ProjectMemberTodoList" features="7"/><key name="//CompilationUnit[org.argouml.kernel.MemberList]:types/TypeDeclaration:MemberList:bodyDeclarations/MethodDeclaration:boolean:add:[Object]:body/Block[0]:statements/IfStatement:elseStatement/IfStatement:thenStatement/Block" features="7"/></annotations>

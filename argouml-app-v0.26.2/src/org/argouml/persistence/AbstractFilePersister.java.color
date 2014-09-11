@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations><key name="//CompilationUnit[org.argouml.persistence.AbstractFilePersister]:imports/ImportDeclaration:org.argouml.uml.cognitive.ProjectMemberTodoList" features="5"/><key name="//CompilationUnit[org.argouml.persistence.AbstractFilePersister]:types/TypeDeclaration:AbstractFilePersister:bodyDeclarations/Initializer:body/Block[2]:statements/ExpressionStatement" features="5"/></annotations>
