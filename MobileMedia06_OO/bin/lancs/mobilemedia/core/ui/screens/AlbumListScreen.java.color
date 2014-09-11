@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations><key name="//CompilationUnit[lancs.mobilemedia.core.ui.screens.AlbumListScreen]:types/TypeDeclaration:AlbumListScreen:bodyDeclarations/FieldDeclaration:exitCommand" features="8"/><key name="//CompilationUnit[lancs.mobilemedia.core.ui.screens.AlbumListScreen]:types/TypeDeclaration:AlbumListScreen:bodyDeclarations/MethodDeclaration:void:initMenu:[]:body/Block[0]:statements/ExpressionStatement" features="8"/></annotations>
