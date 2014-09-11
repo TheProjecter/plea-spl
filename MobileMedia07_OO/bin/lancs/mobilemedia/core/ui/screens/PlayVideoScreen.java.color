@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations><key name="//CompilationUnit[lancs.mobilemedia.core.ui.screens.PlayVideoScreen]:types/TypeDeclaration:PlayVideoScreen:bodyDeclarations/FieldDeclaration:copy" features="5"/><key name="//CompilationUnit[lancs.mobilemedia.core.ui.screens.PlayVideoScreen]:types/TypeDeclaration:PlayVideoScreen:bodyDeclarations/MethodDeclaration:void:PlayVideoScreen:[MainUIMidlet;InputStream;String;AbstractController]:body/Block[5]:statements/ExpressionStatement" features="5"/></annotations>
