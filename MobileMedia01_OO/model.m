@@ -1,0 +1,2 @@
+MobileMedia : Photo :: _MobileMedia ;
+
