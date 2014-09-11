@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB"/>
+	<classpathentry kind="lib" path="D:/eclipse-plea-wala/runtime-EclipseApplication/MobileMedia03_OO/lib/cdc_1.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-plea-wala/runtime-EclipseApplication/MobileMedia03_OO/lib/cldc_1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-plea-wala/runtime-EclipseApplication/MobileMedia03_OO/lib/jsr120_1.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-plea-wala/runtime-EclipseApplication/MobileMedia03_OO/lib/jsr135_1.2.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-plea-wala/runtime-EclipseApplication/MobileMedia03_OO/lib/midp_2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
