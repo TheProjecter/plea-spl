@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations><key name="//CompilationUnit[org.argouml.uml.diagram.static_structure.ui.CommentEdge]:imports/ImportDeclaration:org.argouml.uml.diagram.use_case.ui.UseCaseDiagramRenderer" features="8"/><key name="//CompilationUnit[org.argouml.uml.diagram.static_structure.ui.CommentEdge]:types/TypeDeclaration:CommentEdge:bodyDeclarations/FieldDeclaration:LOG:fragments/VariableDeclarationFragment:LOG:initializer/MethodInvocation:arguments/TypeLiteral[0]" features="8"/></annotations>
