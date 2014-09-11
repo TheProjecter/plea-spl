@@ -1,0 +1,30 @@
+ O volume na unidade D ‚ Documentos
+ O N£mero de S‚rie do Volume ‚ 6CBB-52EC
+
+ Pasta de D:\eclipse-plea-wala\runtime-EclipseApplication\argouml-app-r132\lib
+
+16/04/2014  10:09    <DIR>          .
+16/04/2014  10:09    <DIR>          ..
+07/04/2014  23:57               830 .classpath
+07/04/2014  23:57               677 .project
+08/04/2014  00:47    <DIR>          .settings
+07/04/2014  23:57           445.292 antlr-2.7.7.jar
+07/04/2014  23:57             1.265 antlr.LICENSE.txt
+07/04/2014  23:57               278 build.properties
+07/04/2014  23:57            30.090 commons-logging-1.0.2.jar
+07/04/2014  23:57             2.806 commons-logging.LICENSE.txt
+08/04/2014  00:06            37.568 easymock.jar
+07/04/2014  23:57           659.509 gef-0.13.jar
+07/04/2014  23:57             1.485 gef.LICENSE.txt
+08/04/2014  00:47    <DIR>          javadocs
+08/04/2014  00:06            82.818 jdepend.jar
+16/04/2014  10:09                 0 libs_argouml-app.txt
+07/04/2014  23:57           659.185 ocl-argo-1.1.jar
+07/04/2014  23:57            26.932 ocl-argo.LICENSE.txt
+07/04/2014  23:57               112 plugin.properties
+07/04/2014  23:57            47.667 swidgets-0.1.4.jar
+07/04/2014  23:57            11.556 swidgets.LICENSE.txt
+07/04/2014  23:57            46.142 toolbar-1.4.1-20071227.jar
+07/04/2014  23:57             1.481 toolbar.LICENSE.txt
+              19 arquivo(s)      2.055.693 bytes
+               4 pasta(s)   105.846.624.256 bytes dispon¡veis

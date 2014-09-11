@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE annotations SYSTEM "annotations.dtd">
+<annotations><key name="//CompilationUnit[org.argouml.uml.ui.behavior.collaborations.UMLMessageActivatorComboBoxModel]:types/TypeDeclaration:UMLMessageActivatorComboBoxModel:bodyDeclarations/MethodDeclaration:void:buildModelList:[]:body/Block[1]:statements/IfStatement:thenStatement/Block[2]:statements/ExpressionStatement" features="11"/></annotations>
