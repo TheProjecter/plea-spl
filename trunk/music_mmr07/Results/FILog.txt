@@ -1,0 +1,36 @@
+# Result of Exception Analysis....
+
+1A	[signaler] InvalidImageFormatException	lancs.mobilemedia.core.util.MediaUtil	readMediaAsByteArray(String)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	resetMediaData(	
+1B	[signaler] InvalidImageFormatException	lancs.mobilemedia.core.util.MediaUtil	readMediaAsByteArray(String)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+1C	[signaler] InvalidImageFormatException	lancs.mobilemedia.core.util.MediaUtil	readMediaAsByteArray(String)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+2A	[signaler] InvalidArrayFormatException	lancs.mobilemedia.core.util.MediaUtil	getMediaInfoFromBytes(byte[])		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getMedias(String)	
+2B	[signaler] InvalidArrayFormatException	lancs.mobilemedia.core.util.MediaUtil	getMediaInfoFromBytes(byte[])		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	resetMediaData(	
+2C	[signaler] InvalidArrayFormatException	lancs.mobilemedia.core.util.MediaUtil	getMediaInfoFromBytes(byte[])		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+2D	[signaler] InvalidArrayFormatException	lancs.mobilemedia.core.util.MediaUtil	getMediaInfoFromBytes(byte[])		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+3A	[signaler] InvalidPhotoAlbumNameException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	createNewAlbum(String)		[handler] InvalidPhotoAlbumNameException	lancs.mobilemedia.core.ui.controller.AlbumController	handleCommand(javax.microedition.lcdui.Command)	
+4A	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	addMediaData(String,String,String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.controller.AlbumController	resetMediaData(	
+4B	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	addMediaData(String,String,String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+4C	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	addMediaData(String,String,String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+5A	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	loadMediaDataFromRMS(String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getMedias(String)	
+5B	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	loadMediaDataFromRMS(String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.controller.AlbumController	resetMediaData(	
+5C	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	loadMediaDataFromRMS(String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+5D	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	loadMediaDataFromRMS(String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+6A	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	updateMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData,lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.controller.AlbumController	resetMediaData(	
+6B	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	updateMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData,lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+6C	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	updateMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData,lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+7A	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	createNewAlbum(String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.controller.AlbumController	handleCommand(javax.microedition.lcdui.Command)	
+8A	[signaler] PersistenceMechanismException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	deleteAlbum(String)		[handler] PersistenceMechanismException	lancs.mobilemedia.core.ui.controller.AlbumController	handleCommand(javax.microedition.lcdui.Command)	
+9A	[signaler] InvalidImageDataException	lancs.mobilemedia.core.util.MediaUtil	getBytesFromMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] Exception	lancs.mobilemedia.core.util.MusicMediaUtil	getBytesFromMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData)	
+10A	[signaler] InvalidImageDataException	lancs.mobilemedia.core.util.MusicMediaUtil	getBytesFromMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	resetMediaData(	
+10B	[signaler] InvalidImageDataException	lancs.mobilemedia.core.util.MusicMediaUtil	getBytesFromMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+10C	[signaler] InvalidImageDataException	lancs.mobilemedia.core.util.MusicMediaUtil	getBytesFromMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+10D	[signaler] InvalidImageDataException	lancs.mobilemedia.core.util.MusicMediaUtil	getBytesFromMediaInfo(lancs.mobilemedia.core.ui.datamodel.MediaData)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	resetMediaData(	
+11A	[signaler] ImagePathNotValidException	lancs.mobilemedia.core.util.MediaUtil	readMediaAsByteArray(String)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	resetMediaData(	
+11B	[signaler] ImagePathNotValidException	lancs.mobilemedia.core.util.MediaUtil	readMediaAsByteArray(String)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+11C	[signaler] ImagePathNotValidException	lancs.mobilemedia.core.util.MediaUtil	readMediaAsByteArray(String)		[handler] InvalidImageDataException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getAlbumNames(	
+12A	[signaler] ImageNotFoundException	lancs.mobilemedia.core.ui.datamodel.MediaAccessor	getMediaInfo(String)		[handler] ImageNotFoundException	lancs.mobilemedia.core.ui.datamodel.MusicMediaAccessor	resetRecordStore(	
+13A	[signaler] UnavailablePhotoAlbumException	lancs.mobilemedia.core.ui.datamodel.AlbumData	getMedias(String)		[handler] UnavailablePhotoAlbumException	lancs.mobilemedia.core.ui.controller.MediaListController	showMediaList(String,boolean,boolean)	
+
+
+# Errors found on analysis....
+
