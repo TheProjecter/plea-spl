@@ -214,16 +214,18 @@ public class ExplorerPopup extends JPopupMenu {
                         		//#if defined(ACTIVITYDIAGRAM)
                         		//@#$LPS-ACTIVITYDIAGRAM:GranularityType:Statement
                                 && activityDiagramActive
-                                && diagramActivity
-                                //#endif
-                                == selectedStateMachine)                           
+                                && diagramActivity                                
+                                == selectedStateMachine
+                              //#endif
+                                )                                
                         || (stateVertexSelected
                         		//#if defined(ACTIVITYDIAGRAM)
                         		//@#$LPS-ACTIVITYDIAGRAM:GranularityType:Statement
                                 && stateDiagramActive
-                                && diagramStateMachine 
+                                && diagramStateMachine                                 
+                                == selectedStateMachine
                                 //#endif
-                                == selectedStateMachine)
+                        		)
                         //#endif
                         //#if defined(SEQUENCEDIAGRAM)
                         //@#$LPS-SEQUENCEDIAGRAM:GranularityType:Field

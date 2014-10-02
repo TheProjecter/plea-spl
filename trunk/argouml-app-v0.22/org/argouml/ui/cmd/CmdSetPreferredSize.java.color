@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE annotations SYSTEM "annotations.dtd">
-<annotations><key name="//CompilationUnit[org.argouml.ui.cmd.CmdSetPreferredSize]:imports/ImportDeclaration:org.argouml.uml.diagram.state.ui.FigCompositeState" features="3"/></annotations>
+<annotations><key name="//CompilationUnit[org.argouml.ui.cmd.CmdSetPreferredSize]:imports/ImportDeclaration:org.argouml.uml.diagram.state.ui.FigCompositeState" features="10"/></annotations>
