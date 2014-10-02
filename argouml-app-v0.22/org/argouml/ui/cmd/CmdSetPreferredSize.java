@@ -26,7 +26,7 @@ package org.argouml.ui.cmd;
 
 import java.util.Vector;
 import org.argouml.i18n.Translator;
-//#if defined(STATEDIAGRAM)or(ACTIVITYDIAGRAM)
+//#if defined(STATEDIAGRAM)
 import org.argouml.uml.diagram.state.ui.FigCompositeState;
 //#endif
 import org.argouml.uml.diagram.static_structure.ui.FigPackage;
@@ -121,7 +121,7 @@ public class CmdSetPreferredSize extends Cmd {
             // only resize elements which the user would also be able
             // to resize.
             if (fi.isResizable() && (!((fi instanceof FigPackage)
-            				//#if defined(STATEDIAGRAM) or (ACTIVITYDIAGRAM)
+            				//#if defined(STATEDIAGRAM)
 		                     || (fi instanceof FigCompositeState)
 		                    //#endif 
             				))) {

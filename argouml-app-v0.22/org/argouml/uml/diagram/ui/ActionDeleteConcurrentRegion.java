@@ -41,8 +41,12 @@ import org.argouml.kernel.Project;
 import org.argouml.kernel.ProjectManager;
 import org.argouml.model.Model;
 import org.argouml.ui.targetmanager.TargetManager;
+
+//#if defined(STATEDIAGRAM)
 import org.argouml.uml.diagram.state.ui.FigCompositeState;
 import org.argouml.uml.diagram.state.ui.FigConcurrentRegion;
+//#endif
+
 import org.argouml.uml.diagram.state.ui.FigStateVertex;
 import org.tigris.gef.presentation.Fig;
 import org.tigris.gef.undo.UndoableAction;
@@ -126,9 +130,11 @@ public class ActionDeleteConcurrentRegion extends UndoableAction {
             else
                 height = r.height + 4;
 
+            //#if defined(STATEDIAGRAM)
             ((FigCompositeState) encloser).setBounds(encBound.height - height);
             ((FigConcurrentRegion) ((Vector) encloser.getEnclosedFigs())
                     .elementAt(0)).setLineColor(Color.white);
+            //#endif
 
             /*When only one concurrent region remains it must be erased and the
               composite state sets non concurent*/
