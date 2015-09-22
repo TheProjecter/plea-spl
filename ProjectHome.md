@@ -1,0 +1,1 @@
+The Exception Handling (EH) is a widely used mechanism for building robust systems. In Software Product Line (SPL) context it is not different.
